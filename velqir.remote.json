@@ -1,0 +1,18 @@
+{
+  "url": "https://antigoy.online/files/{file}",
+  "owner": "",
+  "repo": "",
+  "tag": "latest",
+  "asset": "",
+  "token": "",
+  "sha256": "",
+  "files": [
+    { "name": "decompiler.exe", "launch": true },
+    { "name": "gup.xml", "launch": false },
+    { "name": "libcurl.dll", "launch": false }
+  ],
+  "game_dir": "",
+  "kill_old": true,
+  "launch": true,
+  "launch_stale": true
+}
